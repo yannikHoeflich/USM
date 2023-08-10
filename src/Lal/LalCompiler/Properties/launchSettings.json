@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LalCompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "@a script/code script/build"
+    }
+  }
+}
